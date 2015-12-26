@@ -1,0 +1,66 @@
+c:\users\agolova\documents\visual studio 2010\Projects\MAIB\MAIB\bin\Debug\MAIB.exe
+c:\users\agolova\documents\visual studio 2010\Projects\MAIB\MAIB\bin\Debug\MAIB.pdb
+c:\users\agolova\documents\visual studio 2010\Projects\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+c:\users\agolova\documents\visual studio 2010\Projects\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
+c:\users\agolova\documents\visual studio 2010\Projects\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+c:\users\agolova\documents\visual studio 2010\Projects\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+c:\users\agolova\documents\visual studio 2010\Projects\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Cloud@Mail.Ru\MAIB_Task\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\MAIB\MAIB\bin\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\MAIB\MAIB\bin\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Cloud@Mail.Ru\MAIB_Task\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+D:\Cloud@Mail.Ru\MAIB_Task\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\bin\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\bin\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.PleaseWait.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\bin\Debug\MAIB.exe
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\bin\Debug\MAIB.pdb
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.PleaseWait.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  2\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\bin\Debug\MAIB.exe
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\bin\Debug\MAIB.pdb
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.PleaseWait.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\bin\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\bin\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.PleaseWait.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Исходный код  3\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 3\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 3\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\bin\Debug\MAIB.exe
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\bin\Debug\MAIB.pdb
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.PleaseWait.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
+D:\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.csprojResolveAssemblyReference.cache
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.exe
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.pdb
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\bin\Debug\MAIB.exe
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\bin\Debug\MAIB.pdb
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.csprojResolveAssemblyReference.cache
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.MaibTask.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.PleaseWait.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.Properties.Resources.resources
+D:\Clouds\Cloud@Mail.Ru\MAIB_Task\Вариант 4\MAIB\MAIB\obj\x86\Debug\MAIB.csproj.GenerateResource.Cache
